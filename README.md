@@ -117,9 +117,10 @@ The API endpoints are documented using **Postman**. You can access the full API 
 
 ## Contributors
 
-- **Ayoub Majjid**
-- **El Hilali Aymen**
-- **Ben Yamna Salma**
+- [Ayoub Majjid](https://www.linkedin.com/in/youbista/)
+-  [El Hilali Aymen](https://www.linkedin.com/in/ayman-el-hilali/)
+-  [Ben Yamna Salm](https://www.linkedin.com/in/salma-ben-yamna-860256250?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD35GkgBV8Cb80zd0DdP3Jt0IgxjZJJ5Ums&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BXkmmuMDvQ%2F%2BWF%2BpqTqNinQ%3D%3D)
+
 
 ---
 
