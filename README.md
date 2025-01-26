@@ -4,6 +4,8 @@
 ### Home page
 ![Home Page](./attachements/pages/png/1-home.png)
 
+-[Linkedin post](https://www.linkedin.com/posts/youbista_inventorymanagement-angular-dotnet-activity-7285708731374268417-w3vK?utm_source=share&utm_medium=member_desktop)
+
 This project is an **Inventory Management System** designed to help businesses efficiently manage their products, sales, purchases, stock levels, and categories. The system provides a user-friendly interface with advanced filtering and real-time tracking capabilities, enabling businesses to streamline their operations and improve decision-making processes.
 
 The application is built using modern technologies, including **Angular** for the front-end, **.NET** for the back-end, and **Microsoft SQL Server** for database management. It offers a comprehensive solution for businesses looking to modernize their inventory management processes.
